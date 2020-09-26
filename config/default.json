@@ -1,0 +1,6 @@
+{
+  "MONGO_URI": "mongodb+srv://zaven:grant26082013@cluster0.mnosg.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "JWT_SECRET": "my secret key",
+  "GITHUB_CLIENT_ID": "6f6b4696585ed6bb6230",
+  "GITHUB_SECRET": "0758071eb994f694ff2cb989afa61e6c349dc6c7"
+}
